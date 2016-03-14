@@ -1,0 +1,33 @@
+<snippet>
+  <content><![CDATA[
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/live.js">
+  </script>
+</head>
+<body>
+
+    <header class="header">
+
+    </header>
+
+    <main class="main">
+
+    </main>
+
+    <footer class="footer">
+
+    </footer>
+
+</body>
+</html>
+
+]]></content>
+<tabTrigger>start</tabTrigger>
+</snippet>

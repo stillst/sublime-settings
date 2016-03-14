@@ -1,0 +1,26 @@
+{
+	//Custom snippets defenitions
+	"snippets": {
+		"html": {
+			"filters": "html, bem", 			
+			"snippets": {"c1": "<!------------------\n----------------${1:Секция}------------------------------>\n"
+			}
+		},
+
+		"css": {
+			"snippets": {
+				"c1": "\n\n\n\n\n\n/*--------------------------------------*\\\\\n\t${1:Секция}\n\\\\*-------------------------------------*\/\n\n",
+				"c2": "/**\n * ${1:Секция}\n */",
+				"poen": "pointer-events: none;",
+				"bgra": "background-color: rgba(${1:0,0,0,.5});"
+			}	
+		}
+	},
+	//Emmet prefences
+	//http://docs.emmet.io/customization/prefences/
+	"preferences": {
+		"bem.elementSeparator": "__",
+		"bem.modifierSeparator": "--",
+		"bem.shortElementPrefix": "_"
+	}
+}

@@ -1,0 +1,15 @@
+[
+
+    {
+      "keys": ["ctrl+alt+m"],
+      "command": "code_formatter"
+    },
+    {
+        "keys": ["ctrl+shift+r"],
+        "command": "reindent",
+        "args": {
+            "single_line": false
+            }
+    }
+
+]

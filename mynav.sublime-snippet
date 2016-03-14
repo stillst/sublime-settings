@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+
+<nav class="main-nav">
+          <ul>
+            <li class="main-nav-item"><a href="index.html">О компании</a></li>
+            <li class="main-nav-item"><a href="catalog.html">Каталог</a></li>
+            <li class="main-nav-item"><a href="portfolio.html" class="select">Портфолио</a></li>
+            <li class="main-nav-item"><a href="contacts.html">Контакты</a></li>
+            <li class="main-nav-item"><a href="#" class="order-call">Заказать звонок</a></li>
+          </ul>
+        </nav>
+
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>mynav</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

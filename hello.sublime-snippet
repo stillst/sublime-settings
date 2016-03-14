@@ -1,0 +1,27 @@
+<snippet>
+  <content><![CDATA[
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Теста epixx</title>
+    <meta name="description" content="Разбор теста по сеткам epixx">
+    <meta name="keywords" content="вёрстка html тест">
+    <meta name="author" content="Гаврилов Станислав">
+    <!-- build:css css/style.css -->
+        <link rel="stylesheet" href="css/style.css">
+    <!-- endbuild -->
+</head>
+
+
+
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>hello</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
